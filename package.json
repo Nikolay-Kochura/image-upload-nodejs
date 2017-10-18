@@ -1,0 +1,22 @@
+{
+  "name": "upload-images-nodejs",
+  "version": "1.0.0",
+  "description": "Sample of using module Multer for upload images to Node.js app ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Node.js",
+    "Multer",
+    "EJS",
+    "Image upload"
+  ],
+  "author": "Nikolay Kochura",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  }
+}
