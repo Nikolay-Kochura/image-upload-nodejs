@@ -1,0 +1,1 @@
+Sample of using module Multer for upload images to Node.js app
